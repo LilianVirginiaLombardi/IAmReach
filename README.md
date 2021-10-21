@@ -1,2 +1,2 @@
 # IAmReach
-Just a simple, practice application. Taken from a Udemy course.
+Just a simple, practice application. Taken from Udemy course.
